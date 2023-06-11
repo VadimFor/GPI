@@ -1,2 +1,2 @@
-# GPI
- 3º. Obligatoria
+## Gestión de proyectos informáticos
+
